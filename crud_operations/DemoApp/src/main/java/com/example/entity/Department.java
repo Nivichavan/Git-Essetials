@@ -1,5 +1,7 @@
 package com.example.entity;
 
+import javax.persistence.Column;
+
 //Java Program to Illustrate Department.java File
 
 // Importing required package modules
@@ -17,9 +19,14 @@ public class Department {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
+	
+	@Column(name ="department_id")
 	private Long departmentId;
+	@Column(name ="department_name")
 	private String departmentName;
+	@Column(name ="department_address")
 	private String departmentAddress;
+	@Column(name ="department_code")
 	private String departmentCode;
 
 	public Long getDepartmentId() {
