@@ -1,5 +1,7 @@
 # Getting Started
 
+
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
@@ -8,6 +10,8 @@ For further reference, please consider the following sections:
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.5/maven-plugin/reference/html/#build-image)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.7.5/reference/htmlsingle/#data.sql.jpa-and-spring-data)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.7.5/reference/htmlsingle/#web)
+
+
 
 ### Guides
 The following guides illustrate how to use some features concretely:
